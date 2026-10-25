@@ -1,0 +1,1 @@
+export class PreloadScene { public readonly key = 'PreloadScene'; }

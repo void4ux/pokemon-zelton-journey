@@ -1,0 +1,1 @@
+export class OverworldScene { public readonly key = 'OverworldScene'; }

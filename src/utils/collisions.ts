@@ -1,0 +1,1 @@
+export const WALKABLE_TILES = new Set(['.', 'p', 'G', 'D', 'f', 'l', 'm', 's']);

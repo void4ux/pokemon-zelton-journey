@@ -1,0 +1,1 @@
+export class LabScene { public readonly key = 'LabScene'; }

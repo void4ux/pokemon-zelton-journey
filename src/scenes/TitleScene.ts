@@ -1,0 +1,1 @@
+export class TitleScene { public readonly key = 'TitleScene'; }

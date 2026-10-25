@@ -1,0 +1,1 @@
+export function isValidSaveData(data: unknown): boolean { return Boolean(data && typeof data === 'object'); }

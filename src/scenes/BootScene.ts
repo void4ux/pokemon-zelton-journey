@@ -1,0 +1,1 @@
+export class BootScene { public readonly key = 'BootScene'; }
