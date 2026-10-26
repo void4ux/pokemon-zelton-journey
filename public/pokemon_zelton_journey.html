@@ -3808,7 +3808,7 @@
         }
       } else {
         const baseWalkKey = GameState.playerOverworldSheet || "player_walk";
-        const pKey = (baseWalkKey === "player_walk" && GameState.runningShoes && Engine.isMoving) ? "player_run" : baseWalkKey;
+        const pKey = baseWalkKey;
         // Authentic GBA 4-phase stride-stand-stride-stand cycle:
         // First 58% of step shows active leg stride (1 or 2 alternating per step), remaining 42% shows stand (0)!
         let stepPhase = 0;
